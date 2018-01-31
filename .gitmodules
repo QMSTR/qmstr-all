@@ -10,3 +10,7 @@
 	path = qmstr
 	url = git@github.com:QMSTR/qmstr.git
 	branch = .
+[submodule "qmstr-jenkins"]
+	path = qmstr-jenkins
+	url = git@github.com:QMSTR/qmstr-jenkins.git
+	branch = .
