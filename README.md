@@ -22,3 +22,9 @@ checked out branch of the `qmstr-all` repository. Add another
 repository this way:
 
 	> git submodule add -b . <clone URL> <directory-for-submodule>/
+
+The submodules are registered in this repository so that they track
+the corresponding remote branches. To update all submodules to the
+latest commits, run
+
+	> git submodule update --recursive --remote
