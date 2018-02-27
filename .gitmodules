@@ -1,7 +1,3 @@
-[submodule "qmstr-container"]
-	path = qmstr-container
-	url = git@github.com:QMSTR/qmstr-container.git
-	branch = .
 [submodule "qmstr-demo"]
 	path = qmstr-demo
 	url = git@github.com:QMSTR/qmstr-demo.git
